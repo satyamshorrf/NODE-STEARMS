@@ -1,0 +1,16 @@
+{
+  "name": "node-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-status-monitor": "^1.2.3"
+  }
+}
